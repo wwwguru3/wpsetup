@@ -6,7 +6,7 @@
  * of the two required files for a theme (the other being style.css).
  * It is used to display a page when nothing more specific matches a query,
  * e.g., it puts together the home page when no home.php file exists.
- *
+ * from command line
  * @link http://codex.wordpress.org/Template_Hierarchy
  *
  * @package WordPress
